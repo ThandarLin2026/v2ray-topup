@@ -29,8 +29,8 @@ from telegram.ext import (
 # ဒီနေရာမှာ မင်း data တန်းထည့်
 BOT_TOKEN = "8797993641:AAFKqwJxLA0R3398ZT8bcBuygSmp3pn7n-w"
 ADMIN_IDS = {1494445684}   # မင်း Telegram ID ထည့်
-SUPPORT_TEXT = "@juevpn42"
-BOT_NAME = "JueVPN Bot"
+SUPPORT_TEXT = "@Juevpn"
+BOT_NAME = "V2RAY X-UI PANEL"
 DB_PATH = "bot.sqlite3"
 TIMEZONE_OFFSET = 7
 DEFAULT_CURRENCY = "THB"
