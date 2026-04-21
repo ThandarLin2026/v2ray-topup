@@ -27,8 +27,8 @@ from telegram.ext import (
 # DIRECT CONFIG
 # =========================================================
 # ဒီနေရာမှာ မင်း data တန်းထည့်
-BOT_TOKEN = "8797993641:AAFKqwJxLA0R3398ZT8bcBuygSmp3pn7n-w"
-ADMIN_IDS = {1494445684}   # မင်း Telegram ID ထည့်
+BOT_TOKEN = "PUT_YOUR_BOT_TOKEN_HERE"
+ADMIN_IDS = {1234567890}   # မင်း Telegram ID ထည့်
 SUPPORT_TEXT = "@Juevpn"
 BOT_NAME = "V2RAY X-UI PANEL"
 DB_PATH = "bot.sqlite3"
